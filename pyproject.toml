@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-latentgc_aggressive"
+description = "This extension provides a node that aggressively empties the VRAM inbetween workflow stages, for low VRAM environments."
+version = "1.0.0"
+license = "LICENSE"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-LatentGC_Aggressive"
+Icon = ""
