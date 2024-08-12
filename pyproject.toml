@@ -6,7 +6,7 @@ license = "LICENSE"
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
+Repository = "https://github.com/Raapys/ComfyUI-LatentGC_Aggressive"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
